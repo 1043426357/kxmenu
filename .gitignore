@@ -1,5 +1,6 @@
+news.md
 
-## xcode specific
+##code specific
 build/*
 *.pbxuser
 *.mode2v3
